@@ -14,5 +14,6 @@ public class Ash extends Actor
      */
     public void act()
     {
+        move(5);
     }
 }
